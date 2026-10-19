@@ -1,3 +1,4 @@
+use projetoclientes;
 CREATE TABLE usuarios (
     UsuarioId INT IDENTITY(1,1) PRIMARY KEY,
     Email VARCHAR(150) not null,
