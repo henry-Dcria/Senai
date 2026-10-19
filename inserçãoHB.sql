@@ -1,3 +1,4 @@
+use projetoclientes;
 insert into  usuarios (Email,Senha) values('pedrobountyHunter@gmail.com','12345678');
 insert into usuarios(Email,Senha) values('noob52@gmail.com','pao1234');
 insert into classes(nome,Descricao)values('Mago','é um mago!!!!eee solta poderzinho pela mão!');
